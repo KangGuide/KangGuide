@@ -12,7 +12,7 @@
 <br><br>
 <!-- Blog & notion etc... -->
 <span>
-  <a href="gi3592@gmail.com">
+  <a href="mailto:gi3592@gmail.com">
     <img src="https://img.shields.io/badge/Email-black?style=plastic&logo=Gmail&logoColor=white"/>
   </a>
 </span>
