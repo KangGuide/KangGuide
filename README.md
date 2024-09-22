@@ -2,25 +2,27 @@
 <!-- Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
 
-## Mingi Kang
+# Mingi Kang
 
 <!-- My CV/resume -->
 <div>
   
+<!-- 
 <details>
-<summary>About Me</summary>
+ <summary>About Me</summary> 
 <br><br>
-<!-- Blog & notion etc... -->
+Blog & notion etc...
+## Contact
 <span>
   <a href="mailto:gi3592@gmail.com">
     <img src="https://img.shields.io/badge/Email-black?style=plastic&logo=Gmail&logoColor=white"/>
   </a>
 </span>
 <br><br>
+-->
 
 ## Work Experience
-GA KOREA IT Pro ```(06/2024 ~ )``` (Yongin, Gyeonggi)   
-<!-- -->
+IT Pro ```(06/2024 ~ )``` (GA KOREA, Yongin)   
 
 ## Education
 Bachelor Degree of Meterial engineering ```(03/2015 ~ 02/2020)``` (Kyungsung University, Busan)   
@@ -74,8 +76,10 @@ Bachelor Degree of Meterial engineering ```(03/2015 ~ 02/2020)``` (Kyungsung Uni
       <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
     </span>
   </div>
+  
 </div>
-</details>
+
+<!-- </details> -->
 <br><br>
 <div align="center" >
 <!-- My profile -->
